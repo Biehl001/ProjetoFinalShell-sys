@@ -1,0 +1,15 @@
+Relatorio gerado em: 03/06/2026 15:17:06
+Total de produtos: 2
+
+--- Produto #1 ---
+Nome: teste
+Quantidade: 10
+Valor: 1
+Categoria: teste
+
+--- Produto #2 ---
+Nome: teste 2
+Quantidade: 67
+Valor: 90
+Categoria: teste
+

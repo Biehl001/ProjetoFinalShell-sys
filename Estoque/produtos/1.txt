@@ -1,0 +1,4 @@
+Nome: teste
+Quantidade: 10
+Valor: 1
+Categoria: teste
