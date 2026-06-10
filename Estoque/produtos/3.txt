@@ -1,0 +1,4 @@
+Nome: x
+Quantidade: 20
+Valor: 5
+Categoria: l
